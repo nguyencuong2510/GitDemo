@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("commit is master")
     }
 
+    func isMaster() {
+        
+    }
     
     
     /// show name class
