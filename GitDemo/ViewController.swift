@@ -12,9 +12,22 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        print("ngueyn")
     }
 
+    
+    
+    /// show name class
+    ///
+    /// - Parameter name: name class
+    func showName(name: String) {
+        
+    }
+}
 
+// MARK: - action
+extension ViewController {
+    
 }
 
