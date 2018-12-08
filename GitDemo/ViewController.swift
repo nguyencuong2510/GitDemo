@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     ///
     /// - Parameter name: name class
     func showName(name: String) {
-        
+        print("commit is master 1")
     }
 }
 
