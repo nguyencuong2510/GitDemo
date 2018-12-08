@@ -13,19 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("commit is master")
-    }
-
-    func isMaster() {
         
-    }
-    
-    
-    /// show name class
-    ///
-    /// - Parameter name: name class
-    func showName(name: String) {
-        print("commit is master 1")
     }
 }
 
