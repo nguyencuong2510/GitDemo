@@ -29,6 +29,7 @@ class ViewController: UIViewController {
     func showName(name: String) {
         print("viewcontroller")
         print("Test1")
+        print("Test2")
     }
 }
 
