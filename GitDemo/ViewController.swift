@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     /// - Parameter name: name class
     func showName(name: String) {
         print("viewcontroller")
+        print("Test1")
     }
 }
 
