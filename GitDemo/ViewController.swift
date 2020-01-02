@@ -18,6 +18,16 @@ class ViewController: UIViewController {
         print("commit 3")
         print("sample 1")
         print("sample 2")
+        print("ngueyn")
+    }
+
+    
+    
+    /// show name class
+    ///
+    /// - Parameter name: name class
+    func showName(name: String) {
+        print("viewcontroller")
     }
 }
 
