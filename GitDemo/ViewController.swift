@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         print("sample 2")
         print("ngueyn")
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        
+    }
 
     
     
